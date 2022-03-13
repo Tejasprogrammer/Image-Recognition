@@ -1,0 +1,23 @@
+body
+{
+    background-color: orange;
+} 
+.heading
+{
+font-size: 30px;
+width: 50%;
+background-color: aliceblue;
+}
+#camera
+{
+width: 500px;
+height: 350px;
+border-style: dashed;
+border-width: 5px;
+border-radius: 3%;
+}
+.name_of_objects,#result_object_name,#result_object_accuracy
+{
+    color: red;
+    font-size: 18px;
+}
